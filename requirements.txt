@@ -1,0 +1,9 @@
+requests
+tqdm
+pycryptodome
+urllib3
+rubika
+pycryptodome
+rich
+wget
+requests
